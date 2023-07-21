@@ -18,6 +18,7 @@
   "homepage": "https://github.com/BDisciplined/Apex-Legends-Discord-Bot#readme",
   "keywords": [],
   "dependencies": {
-    "discord.js": "^14.11.0"
+    "discord.js": "^14.11.0",
+    "puppeteer": "^20.9.0"
   }
 }
